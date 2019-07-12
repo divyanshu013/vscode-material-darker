@@ -1,6 +1,6 @@
 <header align="center">
     <div align="center">
-        <img src="screenshot.png" alt="Logo" width="800" />
+        <img src="https://raw.githubusercontent.com/divyanshu013/vscode-material-darker/master/screenshot.png" alt="Screenshot" width="800" />
     </div>
     <h1 align="center">VSCode Material Darker</h1>
     <p align="center">A darker material theme for vscode with good contrast ratio</p>
