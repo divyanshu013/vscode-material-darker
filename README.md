@@ -8,6 +8,12 @@
 
 ## Installation
 
+Install directly from [marketplace](https://marketplace.visualstudio.com/items?itemName=divyanshu013.vscode-material-darker) or via VSCode command:
+
+```sh
+ext install vscode-material-darker
+```
+
 ## Related
 
 - [Hyper material darker](https://github.com/divyanshu013/hyper-material-darker)
