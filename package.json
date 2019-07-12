@@ -1,0 +1,36 @@
+{
+    "name": "vscode-material-darker",
+    "displayName": "Material Darker",
+    "description": "A darker material theme for vscode with good contrast ratio",
+    "version": "1.0.0",
+    "publisher": "divyanshu013",
+    "bugs": {
+		"email": "div.blackcat@gmail.com",
+		"url": "https://github.com/divyanshu013/vscode-material-darker/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/divyanshu013/vscode-material-darker"
+	},
+    "homepage": "https://github.com/divyanshu013/vscode-material-darker/blob/master/README.md",
+    "author": {
+        "email": "div.blackcat@gmail.com",
+        "name": "Divyanshu Maithani",
+        "url": "https://github.com/divyanshu013"
+    },
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Darker-color-theme.json"
+            }
+        ]
+    }
+}
